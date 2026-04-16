@@ -1,3 +1,3 @@
 # mi-primer-repo
 Repositorio de pruebas
-Prueba modificar readme
+Readme modificado desde terminal
